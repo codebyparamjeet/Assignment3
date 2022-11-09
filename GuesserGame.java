@@ -14,7 +14,7 @@ public class GuesserGame {
         /*
          * Comparing result from different players with Guessor number
          * 
-         * Results will come on cosole screen
+         * Results will come on console screen
          */
         umpireDecision.compareResult();
 
